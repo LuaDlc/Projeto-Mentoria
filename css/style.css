@@ -1,0 +1,23 @@
+/* criando um estilo para o fundo de tela*/
+body {
+   /*background-image: url(../imagens/telafundo.jpg);*/
+   background-color: rgb(81, 146, 204);
+    
+}
+
+h1 {
+    font-size: 18px;
+    color: rgb(rgb(52, 180, 174), rgb(30, 84, 155), rgb(54, 139, 196));
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*Criando um estilo de classe*/
+.cab_especial {
+    font-size: 16px;
+    font-weight: bolder;
+    color: rgb(28, 65, 114);
+}
+
+.formatacao_campos {
+    background-color: rgb(57, 201, 226);
+}
