@@ -1,7 +1,7 @@
 /* criando um estilo para o fundo de tela*/
 body {
    /*background-image: url(../imagens/telafundo.jpg);*/
-   background-color: rgb(81, 146, 204);
+   background-color: rgb(80, 112, 139);
     
 }
 
@@ -20,4 +20,23 @@ h1 {
 
 .formatacao_campos {
     background-color: rgb(57, 201, 226);
+}
+
+
+/*criando um estilo para id*/
+#cadastro {
+    color: blueviolet;
+    font-size: 12px;
+}
+
+
+/* criando um padrao de tamanho para os campos do formulario */
+.campo_nome{
+    width: 200px;
+    background-color: aqua;
+}
+
+.campo_email {
+    width: 300px;
+    background-color: aqua;
 }
